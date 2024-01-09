@@ -1,4 +1,4 @@
-# advanced-tkinter
+# Advanced Tkinter
 Computer Programming with Python 2: Advanced TkInter
 
 
