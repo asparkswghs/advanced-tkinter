@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import tkinter
-from PIL import ImageTk, Image
+# from PIL import ImageTk, Image
 
 # Functions
 def calculate_area():
@@ -41,7 +41,7 @@ button_calculate = tkinter.Button(
 )
 
 # Create Images
-image = Image.open('src/tux.png')
+# image = Image.open('src/tux.png')
 
 # Add GUI Widgets to Grid
 label_side_a.grid(row = 0, column = 0, padx = 10, pady = 10)
